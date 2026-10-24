@@ -13,3 +13,4 @@
 - I tend to put things off, so staying on top of deadlines will take some effort.
 
 My GitHub profile: [github.com/martybunting](https://github.com/martybunting)
+My class repo: [github.com/MartyBunting/CMPA3301](https://github.com/MartyBunting/CMPA3301)
